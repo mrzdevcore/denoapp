@@ -1,2 +1,0 @@
-# denoapp
-Begin app
